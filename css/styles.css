@@ -1,3 +1,13 @@
+.modal-header {
+  background-color: #512da8;
+  color: floralwhite; }
+  .modal-header button {
+    background-color: #512da8;
+    color: floralwhite; }
+
+.modal-body {
+  background-color: #d1c4e9; }
+
 .row-header {
   margin: 0px auto;
   padding: 0px 0px; }
